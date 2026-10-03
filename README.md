@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of luzzardik/flarum-ext-oauth-generic.** Not for installation: use [Packagist](https://packagist.org/packages/luzzardik/flarum-ext-oauth-generic) or the [upstream repository](https://github.com/luzzardik/flarum-ext-oauth-generic).
 
-**0** versions archived · Latest: [`2.0.3`](https://github.com/flarchive/luzzardik-flarum-ext-oauth-generic/tree/archive/v2.0.3) · License: `MIT` · Flarum: `^2.0`
+**1** versions archived · Latest: [`2.0.3`](https://github.com/flarchive/luzzardik-flarum-ext-oauth-generic/tree/archive/v2.0.3) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.3` | 2026-07-28 | `^2.0` | [Browse](https://github.com/flarchive/luzzardik-flarum-ext-oauth-generic/tree/archive/v2.0.3) |
 
 Catalog entry: [packages/luzzardik-flarum-ext-oauth-generic.json](https://github.com/flarchive/archive-index/blob/main/packages/luzzardik-flarum-ext-oauth-generic.json)
 
